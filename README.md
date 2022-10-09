@@ -11,10 +11,10 @@ yarn test-detail native
 ```
 
 docs :
-https://testing-library.com/docs/queries/bytestid
-https://testing-library.com/docs/queries/bytext
-https://testing-library.com/docs/dom-testing-library/example-intro
-https://testing-library.com/docs/react-testing-library/example-intro
+- https://testing-library.com/docs/queries/bytestid
+- https://testing-library.com/docs/queries/bytext
+- https://testing-library.com/docs/dom-testing-library/example-intro
+- https://testing-library.com/docs/react-testing-library/example-intro
 
 install this :
 ```
