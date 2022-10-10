@@ -86,8 +86,8 @@ export default function Home() {
 
       <main className="dark:bg-neutral-900 min-h-screen pb-8">
 
-        {/* <div className="sticky top-0 z-10 bg-white dark:bg-neutral-900 border dark:border-neutral-800 shadow-sm"> */}
-        <div className="sticky top-0 z-10 bg-opacity-40 dark:bg-opacity-40 bg-gray-100 dark:bg-neutral-900 backdrop-filter backdrop-blur">
+        <div className="sticky top-0 z-10 bg-white dark:bg-neutral-900 border dark:border-neutral-800 shadow-sm">
+        {/* <div className="sticky top-0 z-10 bg-opacity-40 dark:bg-opacity-40 bg-gray-100 dark:bg-neutral-900 backdrop-filter backdrop-blur"> */}
           <nav className="flex items-center gap-x-4 p-4 max-w-2xl mx-auto">
             <Link href="/">
               <a className="text-blue-500 hover:text-blue-600 transition-all text-sm font-medium">Components</a>
